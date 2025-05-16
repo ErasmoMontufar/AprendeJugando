@@ -1,0 +1,37 @@
+# Android
+.gradle/
+local.properties
+*.iml
+.idea/
+build/
+captures/
+.externalNativeBuild/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# Visual Studio Code
+.vscode/
+
+# Otros
+.DS_Store
+Thumbs.db
